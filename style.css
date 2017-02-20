@@ -1,0 +1,29 @@
+*{
+	padding : 0;
+	margin: 0;
+}
+body{
+	background: midnightblue;
+}
+h1,h3{
+	text-align: center;
+	color: white;
+}
+button{
+	text-align: center;
+	margin: 0 auto;
+	align-content: center;
+	padding:10px;
+	font-size: medium;
+	margin-left: 47%;
+}
+#canvas{
+	margin-left: 25%;
+	background: #eeeeee;
+	display: block;
+	/*margin:0;*/
+	height: 450px;
+	width: 800px;
+	background: gainsboro;
+	/*background-color: midnightblue;*/
+}
